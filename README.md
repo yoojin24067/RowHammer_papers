@@ -25,7 +25,7 @@
 | |2024	|Security	| [ABACuS](https://www.usenix.org/conference/usenixsecurity24/presentation/olgun) |
 | |2025	|ASPLOS	  | Marionette
 | |2025	|ASPLOS	  | MOAT
-| |2025	|CnC      | [PRAC](https://ieeexplore.ieee.org/abstract/document/10946773) |
+| |2025	|CnC      | [Chronos](https://ieeexplore.ieee.org/abstract/document/10946773) | PRAC |
 | |2025	|DRAMSEC  | Counterpoint
 | |2025	|DRAMSEC  | DRFM
 | |2025	|HPCA	    | AutoRFM
