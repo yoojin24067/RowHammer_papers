@@ -8,6 +8,8 @@
 | |2022 |SP       | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) | Frequency domain attack |
 
 ### Mitigation
+- Prior works: [Excel](https://o365skku-my.sharepoint.com/:x:/g/personal/g24067yjs_o365_skku_edu/Ecd5ipVKx05NrmQ5qus-fZ0BglMoKMQMoRMIZPY-5Cl_2g?e=auwctj)
+  
 |Check |Year |Conference |Name |
 |------|-----|-----------|-----|
 | |2014 |ISCA     | [PARA](https://ieeexplore.ieee.org/abstract/document/6853210) |
