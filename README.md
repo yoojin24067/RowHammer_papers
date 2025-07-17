@@ -3,8 +3,8 @@
 ### Attack
 |Check |Year |Conference |Name |
 |------|-----|-----------|-----|
-| |2020 |SP |TRRespass
-| |2022 |SP |Blacksmith
+| |2020 |SP | [TRRespass](https://ieeexplore.ieee.org/abstract/document/9152631) |
+| |2022 |SP | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) |
 
 ### Mitigation
 |Check |Year |Conference |Name |
