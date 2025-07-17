@@ -1,10 +1,11 @@
 # RowHammer Works
 
 ### Attack
-|Check |Year |Conference |Name |
-|------|-----|-----------|-----|
-| |2020 |SP | [TRRespass](https://ieeexplore.ieee.org/abstract/document/9152631) |
-| |2022 |SP | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) |
+|Check |Year |Conference |Name |Note |
+|------|-----|-----------|-----|-----|
+| |2020 |SP       | [TRRespass](https://ieeexplore.ieee.org/abstract/document/9152631) |
+| |2021 |Security | [SMASH](https://www.usenix.org/conference/usenixsecurity21/presentation/ridder) | Many-sided attack from SW |
+| |2022 |SP       | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) |
 
 ### Mitigation
 |Check |Year |Conference |Name |
