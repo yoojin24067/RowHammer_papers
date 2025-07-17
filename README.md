@@ -10,9 +10,10 @@
 ### Mitigation
 - Prior works: [Excel](https://o365skku-my.sharepoint.com/:x:/g/personal/g24067yjs_o365_skku_edu/Ecd5ipVKx05NrmQ5qus-fZ0BglMoKMQMoRMIZPY-5Cl_2g?e=auwctj)
   
-|Check |Year |Conference |Name |
-|------|-----|-----------|-----|
+|Check |Year |Conference |Name |Note |
+|------|-----|-----------|-----|-----|
 | |2014 |ISCA     | [PARA](https://ieeexplore.ieee.org/abstract/document/6853210) |
+| |2016 |LCA      | [CBT](https://ieeexplore.ieee.org/abstract/document/7579600) | Multi-layer counter |
 | |2020 |MICRO    | [Graphene](https://ieeexplore.ieee.org/abstract/document/9251863) |
 | |2021	|HPCA	    | [BlockHammer](https://ieeexplore.ieee.org/abstract/document/9407238) |
 | |2021	|ICCD	    | HammerFilter
