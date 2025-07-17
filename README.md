@@ -34,7 +34,7 @@
 | |2025	|HPCA	    | PaCRAM
 | |2025	|HPCA	    | [QPRAC](https://ieeexplore.ieee.org/abstract/document/10946754) |
 | |2025	|ISCA	    | [DREAM](https://dl.acm.org/doi/full/10.1145/3695053.3731117) |
-| |2025	|ISCA	    | MoPAC
+| |2025	|ISCA	    | [MoPAC](https://dl.acm.org/doi/full/10.1145/3695053.3730997) |
 | |2025	|ISCA	    | When Mitigations Backfire
 | |2025	|ISCAS    | AxRA
 | |2025	|	        | PrisonBreak
