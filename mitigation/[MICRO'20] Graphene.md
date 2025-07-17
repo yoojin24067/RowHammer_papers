@@ -1,21 +1,20 @@
-    Name:
-	Summary: 
-	Category: 
-	Deterministic: 
-	Detection Mechanism: 
-    Mitigation Mechanism: 
-    Implementaion Place:
-    Storage overhead: 
-	Perf. overhead:
-	Pessimism Assumptions:
-	Multi-Agg:
-	Half-Double:
-	DoS res.
-	RowPress res.
-    Scalability: 
-    Dependency on Mitigations: 
-	Side Channel Vulnerabilities:
-	Rth:
-	?
-	?
-	?
+| Name                         | [MICRO'20] Graphene                      |
+|------------------------------|------------------------------------------|
+| Summary                      | 
+| Category                     | Preventive
+| Deterministic                | Deterministic
+| Detection Mechanism          | Count-Based
+| Mitigation Mechanism         | Victim refresh
+| Implementaion Place          | MC
+| Storage overhead             | high (SRAM)
+| Perf. overhead               | low
+| Pessimism Assumptions        | high
+| Multi-Agg                    | yes
+| Half-Double                  | yes
+| DoS res.                     | no
+| RowPress res.                | no
+| Scalability                  | 
+| Dependency on Mitigations    | 
+| Side Channel Vulnerabilities |
+| Rth                          |
+
