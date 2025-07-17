@@ -16,5 +16,15 @@
 | Scalability                  | 
 | Dependency on Mitigations    | 
 | Side Channel Vulnerabilities |
-| Rth                          |
+| T_RH                         | 50k, 20k
+| Compared designs             | PARA, CBT, TWiCe
+
+
+### Strength
+- Guaranteed protection
+  - <-> PARA (probabilistic mitigation)
+- Low energy
+  - no false positive
+
+### Weakness
 
