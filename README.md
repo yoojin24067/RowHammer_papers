@@ -5,7 +5,7 @@
 |------|-----|-----------|-----|-----|
 | |2020 |SP       | [TRRespass](https://ieeexplore.ieee.org/abstract/document/9152631) |
 | |2021 |Security | [SMASH](https://www.usenix.org/conference/usenixsecurity21/presentation/ridder) | Many-sided attack from SW |
-| |2022 |SP       | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) |
+| |2022 |SP       | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) | Frequency domain attack |
 
 ### Mitigation
 |Check |Year |Conference |Name |
