@@ -11,10 +11,10 @@
 ### Mitigation
 - Prior works: [Excel](https://o365skku-my.sharepoint.com/:x:/g/personal/g24067yjs_o365_skku_edu/Ecd5ipVKx05NrmQ5qus-fZ0BglMoKMQMoRMIZPY-5Cl_2g?e=auwctj)
   
-|Check |Year |Conference |Name |Note |
-|------|-----|-----------|-----|-----|
-| |2014 |ISCA     | [PARA](https://ieeexplore.ieee.org/abstract/document/6853210) |
-| |2016 |LCA      | [CBT](https://ieeexplore.ieee.org/abstract/document/7579600) | Multi-layer counter |
+|Check |Year |Conference |Name |Category |Note |
+|------|-----|-----------|-----|---------|-----|
+| |2014 |ISCA     | [PARA](https://ieeexplore.ieee.org/abstract/document/6853210) | Probabilistic refresh |
+| |2016 |LCA      | [CBT](https://ieeexplore.ieee.org/abstract/document/7579600) |  | Multi-layer counter |
 | |2020 |MICRO    | [Graphene](https://ieeexplore.ieee.org/abstract/document/9251863) |
 | |2021	|HPCA	    | [BlockHammer](https://ieeexplore.ieee.org/abstract/document/9407238) |
 | |2021	|ICCD	    | HammerFilter
@@ -43,8 +43,8 @@
 | |2025	|ISCAS    | AxRA
 | |2025	|	        | PrisonBreak
 | |2025	|Security	| MCSEE
-| |2025	|arxiv    | Side Channel Vulnerabilities Introduced by RowHammer Defenses
-| |2025	|         | Simulation-based Evaluation Framework 
+| |2025	|arxiv    | [LeakyHammer](https://arxiv.org/abs/2503.17891) |  | Side channel vulnerabilities introduced by RowHammer defenses
+| |2025	|arxiv    | [Inter-VM RowHammer simulation](https://arxiv.org/abs/2506.07190) |
 | |2025	|uASC	    | Flipper
 
 ### Others
