@@ -7,6 +7,7 @@
 | |2020 |SP       | [TRRespass](https://ieeexplore.ieee.org/abstract/document/9152631) |
 | |2021 |Security | [SMASH](https://www.usenix.org/conference/usenixsecurity21/presentation/ridder) | Many-sided attack from SW |
 | |2022 |SP       | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) | Frequency domain attack |
+| |2025	|ASPLOS	  | [Marionette](https://dl.acm.org/doi/abs/10.1145/3669940.3707242) | Row coupling |
 
 ### Mitigation
 - Prior works: [Excel](https://o365skku-my.sharepoint.com/:x:/g/personal/g24067yjs_o365_skku_edu/Ecd5ipVKx05NrmQ5qus-fZ0BglMoKMQMoRMIZPY-5Cl_2g?e=auwctj)
@@ -28,7 +29,6 @@
 | |2024 |ISCA     | [PrIDE](https://ieeexplore.ieee.org/abstract/document/10609688) |
 | |2024	|MICRO    | [BreakHammer](https://ieeexplore.ieee.org/abstract/document/10764696) |
 | |2024	|Security	| [ABACuS](https://www.usenix.org/conference/usenixsecurity24/presentation/olgun) |
-| |2025	|ASPLOS	  | Marionette
 | |2025	|ASPLOS	  | MOAT
 | |2025	|arxiv    | [CnC-PRAC](https://arxiv.org/abs/2506.11970) |
 | |2025	|DRAMSEC  | Counterpoint
