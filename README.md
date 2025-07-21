@@ -8,6 +8,7 @@
 | |2021 |Security | [SMASH](https://www.usenix.org/conference/usenixsecurity21/presentation/ridder) | Many-sided attack from SW |
 | |2022 |SP       | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) | Frequency domain attack |
 | |2025	|ASPLOS	  | [Marionette](https://dl.acm.org/doi/abs/10.1145/3669940.3707242) | Row coupling |
+| |2025	|ISCA	    | When Mitigations Backfire
 
 ### Mitigation
 - Prior works: [Excel](https://o365skku-my.sharepoint.com/:x:/g/personal/g24067yjs_o365_skku_edu/Ecd5ipVKx05NrmQ5qus-fZ0BglMoKMQMoRMIZPY-5Cl_2g?e=auwctj)
@@ -40,7 +41,6 @@
 | |2025	|HPCA	    | [QPRAC](https://ieeexplore.ieee.org/abstract/document/10946754) |
 | |2025	|ISCA	    | [DREAM](https://dl.acm.org/doi/full/10.1145/3695053.3731117) |
 | |2025	|ISCA	    | [MoPAC](https://dl.acm.org/doi/full/10.1145/3695053.3730997) |
-| |2025	|ISCA	    | When Mitigations Backfire
 | |2025	|ISCAS    | AxRA
 | |2025	|	        | PrisonBreak
 | |2025	|Security	| MCSEE
