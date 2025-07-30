@@ -6,6 +6,7 @@
 | |2019 |Security | [ECCploit](https://ieeexplore.ieee.org/abstract/document/8835222) | defeat ECC
 | |2020 |SP       | [TRRespass](https://ieeexplore.ieee.org/abstract/document/9152631) |
 | |2021 |Security | [SMASH](https://www.usenix.org/conference/usenixsecurity21/presentation/ridder) | Many-sided attack from SW |
+| |2022 |Security | [Half-Double](https://www.usenix.org/conference/usenixsecurity22/presentation/kogler-half-double) | Exploit TRR refresh, Blind-Hammering | 
 | |2022 |SP       | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) | Frequency domain attack |
 | |2025	|ASPLOS	  | [Marionette](https://dl.acm.org/doi/abs/10.1145/3669940.3707242) | Row coupling |
 | |2025	|ISCA	    | When Mitigations Backfire
