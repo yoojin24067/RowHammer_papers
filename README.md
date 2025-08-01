@@ -9,6 +9,7 @@
 | |2022 |Security | [Half-Double](https://www.usenix.org/conference/usenixsecurity22/presentation/kogler-half-double) | Exploit TRR refresh, Blind-Hammering | 
 | |2022 |SP       | [Blacksmith](https://ieeexplore.ieee.org/abstract/document/9833772) | Frequency domain attack |
 | |2025	|ASPLOS	  | [Marionette](https://dl.acm.org/doi/abs/10.1145/3669940.3707242) | Row coupling |
+| |2025	|HPCA	    | [Chronos](https://ieeexplore.ieee.org/abstract/document/10946773)
 | |2025	|ISCA	    | When Mitigations Backfire
 
 ### Mitigation
@@ -36,7 +37,6 @@
 | |2025	|DRAMSEC  | Counterpoint
 | |2025	|DRAMSEC  | DRFM
 | |2025	|HPCA	    | AutoRFM
-| |2025	|HPCA	    | [Chronos](https://ieeexplore.ieee.org/abstract/document/10946773)
 | |2025	|HPCA	    | DAPPER
 | |2025	|HPCA	    | PaCRAM
 | |2025	|HPCA	    | [QPRAC](https://ieeexplore.ieee.org/abstract/document/10946754) |
