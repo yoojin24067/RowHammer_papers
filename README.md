@@ -22,6 +22,7 @@
 | |2020 |MICRO    | [Graphene](https://ieeexplore.ieee.org/abstract/document/9251863) |
 | |2021	|HPCA	    | [BlockHammer](https://ieeexplore.ieee.org/abstract/document/9407238) |
 | |2021	|ICCD	    | HammerFilter
+| |2022 |ASPLOS   | [RRS](https://dl.acm.org/doi/abs/10.1145/3503222.3507716) | Randomized Row-Swap |
 | |2022	|ISCA	    | [Hydra](https://dl.acm.org/doi/abs/10.1145/3470496.3527421) |
 | |2023	|CCS	    | [RAMPART](https://dl.acm.org/doi/abs/10.1145/3631882.3631886) |  | Similar with Cube |
 | |2023	|HPCA	    | [SRS](https://ieeexplore.ieee.org/abstract/document/10070999) |  | Juggernaut attack pattern |
